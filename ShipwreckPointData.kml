@@ -4022,7 +4022,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>14.767,40.649999999999999,0</coordinates>
+      <coordinates>14.766999999999999,40.649999999999999,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Saliagos">
@@ -4232,7 +4232,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.533,43.082999999999998,0</coordinates>
+      <coordinates>10.532999999999999,43.082999999999998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="San Vincenzo 2">
@@ -4267,7 +4267,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.517,43.049999999999997,0</coordinates>
+      <coordinates>10.516999999999999,43.049999999999997,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="San Vito">
@@ -4302,7 +4302,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>12.767,38.167000000000002,0</coordinates>
+      <coordinates>12.766999999999999,38.167000000000002,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Sancak Burun">
@@ -7417,7 +7417,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>12.033,41.950000000000003,0</coordinates>
+      <coordinates>12.032999999999999,41.950000000000003,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Torre Flavia 2">
@@ -7907,7 +7907,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>12.783,37.567,0</coordinates>
+      <coordinates>12.782999999999999,37.567,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Triscina 4">
@@ -7942,7 +7942,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>12.783,37.567,0</coordinates>
+      <coordinates>12.782999999999999,37.567,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Tuna,  Sa">
@@ -9447,7 +9447,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.783,37.133000000000003,0</coordinates>
+      <coordinates>10.782999999999999,37.133000000000003,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Zirje">
@@ -9622,7 +9622,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.267,42.817,0</coordinates>
+      <coordinates>10.266999999999999,42.817,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Acque Chiare">
@@ -10567,7 +10567,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>15.283,36.982999999999997,0</coordinates>
+      <coordinates>15.282999999999999,36.982999999999997,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Arenys de Mar (Spain)">
@@ -12037,7 +12037,7 @@ Data source: ]]></description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>15.517,38.283000000000001,0</coordinates>
+      <coordinates>15.516999999999999,38.283000000000001,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Brindisi">
@@ -12877,7 +12877,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>12.033,36.783000000000001,0</coordinates>
+      <coordinates>12.032999999999999,36.783000000000001,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Cala Rossano">
@@ -13507,7 +13507,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>11.033,37.082999999999998,0</coordinates>
+      <coordinates>11.032999999999999,37.082999999999998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Cap Bon 2">
@@ -13542,7 +13542,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>11.033,37.082999999999998,0</coordinates>
+      <coordinates>11.032999999999999,37.082999999999998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Cap Couronne">
@@ -15747,7 +15747,7 @@ Data source: G. Purpura 1993,  163-184.</description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>14.033,38.017000000000003,0</coordinates>
+      <coordinates>14.032999999999999,38.017000000000003,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Cervia">
@@ -16377,7 +16377,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>13.033,41.232999999999997,0</coordinates>
+      <coordinates>13.032999999999999,41.232999999999997,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Circeo 6">
@@ -16482,7 +16482,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>11.767,42.082999999999998,0</coordinates>
+      <coordinates>11.766999999999999,42.082999999999998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Colonia de Sant Jordi 3">
@@ -16762,7 +16762,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>12.267,45.350000000000001,0</coordinates>
+      <coordinates>12.266999999999999,45.350000000000001,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Cortegada">
@@ -20192,7 +20192,7 @@ Data source: Navis I,  Tune,  #183; Shetelig 1917; A.W. Brøgger and H. Shetelig
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>11.283,59.200000000000003,0</coordinates>
+      <coordinates>11.282999999999999,59.200000000000003,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Utrecht 1">
@@ -23202,7 +23202,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>15.283,37.817,0</coordinates>
+      <coordinates>15.282999999999999,37.817,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Gibraltar 1">
@@ -24637,7 +24637,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>14.533,44.466999999999999,0</coordinates>
+      <coordinates>14.532999999999999,44.466999999999999,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Imera">
@@ -24672,7 +24672,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>13.783,38,0</coordinates>
+      <coordinates>13.782999999999999,38,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Ince Ada">
@@ -24987,7 +24987,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>14.767,44.283000000000001,0</coordinates>
+      <coordinates>14.766999999999999,44.283000000000001,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Istria">
@@ -26597,7 +26597,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.283,43.549999999999997,0</coordinates>
+      <coordinates>10.282999999999999,43.549999999999997,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Lixouri">
@@ -27577,7 +27577,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>15.767,39.917000000000002,0</coordinates>
+      <coordinates>15.766999999999999,39.917000000000002,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Maratea 2">
@@ -29222,7 +29222,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>13.533,45.817,0</coordinates>
+      <coordinates>13.532999999999999,45.817,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Montecristo 2">
@@ -29257,7 +29257,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.283,42.332999999999998,0</coordinates>
+      <coordinates>10.282999999999999,42.332999999999998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Montecristo 3">
@@ -29292,7 +29292,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.283,42.332999999999998,0</coordinates>
+      <coordinates>10.282999999999999,42.332999999999998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Montecristo 6">
@@ -29327,7 +29327,7 @@ Data source: M. Bound 1992,  329-336.</description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>10.283,42.350000000000001,0</coordinates>
+      <coordinates>10.282999999999999,42.350000000000001,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Morovnik">
@@ -30097,7 +30097,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>11.517,48.75,0</coordinates>
+      <coordinates>11.516999999999999,48.75,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Oberstimm 2">
@@ -30132,7 +30132,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>11.517,48.75,0</coordinates>
+      <coordinates>11.516999999999999,48.75,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Ognina (Catania) 2">
@@ -30202,7 +30202,7 @@ Data source: F. Mayet 1987,  289</description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>15.267,36.966999999999999,0</coordinates>
+      <coordinates>15.266999999999999,36.966999999999999,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Olib 1">
@@ -30727,7 +30727,7 @@ Data source: </description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>15.267,40.033000000000001,0</coordinates>
+      <coordinates>15.266999999999999,40.033000000000001,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Palizi Marina">
@@ -33912,7 +33912,7 @@ Data source: J. Flatman and L. Blue 1999,  174-199.</description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>1.567,52.082999999999998,0</coordinates>
+      <coordinates>1.5669999999999999,52.082999999999998,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Escombreras">
@@ -33947,7 +33947,7 @@ Data source: J.P. Reyes 1996,  72 n30.</description>
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>-0.94099999999999995,37.558999999999998,0</coordinates>
+      <coordinates>-0.94099999999999995,37.558999999999997,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Fotevik 1">
@@ -34507,7 +34507,7 @@ Data source: Navis I,  Kamien Pomorski,  #138; W. Filipowiak 1986,  84-86; W. Fi
       </LabelStyle>
     </Style>
     <Point id="0">
-      <coordinates>14.783,53.616999999999997,0</coordinates>
+      <coordinates>14.782999999999999,53.616999999999997,0</coordinates>
     </Point>
   </Placemark>
   <Placemark id="Karschau">
