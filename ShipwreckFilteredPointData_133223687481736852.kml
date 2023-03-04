@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Maddalena">
+    <name />
+    <description>Name 1: Maddalena
+Name 2: 
+Start Date: 1
+End Date: 500
+Data source: DateQ: 
+YearFound: 
+Cargo1: glass
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.4169999999999998,41.25,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Malamocco">
+    <name />
+    <description>Name 1: Malamocco
+Name 2: 
+Start Date: 1400
+End Date: 1500
+Data source: DateQ: ?
+YearFound: 
+Cargo1: glass
+Cargo2: metal
+Cargo3: 
+OtherCargo: 
+Type1: blocks
+Type2: falchions,  swords,  Turkish standard,  bronze statuette
+Type3: 
+Width: 
+Depth: 9.000
+Gear: ballast,  iron breech-loading cannon,  3 large anchors
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.382999999999999,45.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Serçe Limani 1">
+    <name />
+    <description>Name 1: Serçe Limani 1
+Name 2: 
+Start Date: 1025
+End Date: 1025
+Data source: G.F. Bass 1979,  36-43; G.F. Bass 1981,  96-111; J.R. Steffy 1982,  13-34; G.F. Bass 1984,  42-47; G.F. Bass 1984,  64-69; G.F. Bass,  F.H. van Doorninck Jr.,  and J.R. Steffy 1984, 161-182; C. Pulak et al. 1987,  31-57; M. Jenkins 1992,  56-66; F.H. van Doorninck Jr. 1993,  8-12; F.M. Hocker 1993,  13-21.DateQ: ca
+YearFound: 
+Cargo1: glass
+Cargo2: ceramic
+Cargo3: amphoras
+OtherCargo: wooden combs,  orpiment,  glasses,  coin weights balance pan weights,  iron swords,  wooden scabbard,  lead net weights,  axe,  spears,  javelins,  chessmen,  gaming table,  gold pendant,  silver rings,  tools,  nails,  fishing equipment
+Type1: broken vessels,  cullet,  intact vessels; weights
+Type2: Islamic glazed bowls,  pots,  glazed bowls
+Type3: Byzantine
+Width: 5.00
+Depth: 34.000
+Gear: ballast,  rigging pieces,  8 y-shaped anchors
+Capacity: 
+Comments: preserved hull
+Length: 15.60
+Width: 5.00
+Data source: G.F. Bass 1979,  36-43; G.F. Bass 1981,  96-111; J.R. Steffy 1982,  13-34; G.F. Bass 1984,  42-47; G.F. Bass 1984,  64-69; G.F. Bass,  F.H. van Doorninck Jr.,  and J.R. Steffy 1984, 161-182; C. Pulak et al. 1987,  31-57; M. Jenkins 1992,  56-66; F.H. van Doorninck Jr. 1993,  8-12; F.M. Hocker 1993,  13-21.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>28.082999999999998,36.567,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Serçe Limani Zone">
+    <name />
+    <description>Name 1: Serçe Limani Zone
+Name 2: 
+Start Date: 975
+End Date: 1100
+Data source: DateQ: 
+YearFound: 
+Cargo1: glass
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: vessels
+Type2: 
+Type3: 
+Width: 
+Depth: 36.000
+Gear: 
+Capacity: 
+Comments: hull remains,  nails,  caulking,  70 m off shore
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>28,36,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Silba 4">
+    <name />
+    <description>Name 1: Silba 4
+Name 2: 
+Start Date: 500
+End Date: 1500
+Data source: DateQ: 
+YearFound: 
+Cargo1: glass
+Cargo2: 
+Cargo3: 
+OtherCargo: 
+Type1: 
+Type2: 
+Type3: 
+Width: 
+Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Length: 
+Width: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.717000000000001,44.332999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
