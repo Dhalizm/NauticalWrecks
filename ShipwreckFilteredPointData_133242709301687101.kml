@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Laurons 1, Les">
+    <name />
+    <description>Primary Name: Laurons 1, Les
+Secondary Name: 
+Start Date: 200
+End Date: 400
+DateQ: c3 to c4
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 4.00
+Wreck Depth: 2.50
+Gear: pumps
+Capacity: 
+Comments: preserved ship, 46 m from shore - Late Roman vessel repaired numerous times
+Ship Length: 13.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.0170000000000003,43.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saint-Gervais 2">
+    <name />
+    <description><![CDATA[Primary Name: Saint-Gervais 2
+Secondary Name: 
+Start Date: 600
+End Date: 675
+DateQ: ca
+YearFound: 
+CargoName: amphoras
+Type: cylindrical
+Ship Width: 6.00
+Wreck Depth: 2.50
+Gear: 
+Capacity: 40-50 tons
+Comments: hull; shallow: probably intrusive deposits; heavily salvaged; only object found in pitch certainly from wreck (?possibly explains survival of wheat, which was the main cargo, ca 3000 modii, dumped in rear 1/3 of ship. Triticum ?turgidum L. + Agrostemma githago L. weed); total capacity 40-50 metric tons; pitch near kitchen, probably is ship's gear; barrel bottom preserved in pitch. African cylindrical Keay 8a. (Pieri 2005, 16, claims multiple barrels [probably in error; cf. Jézégou 1998], proposes date ca. 650-700).
+Ship Length: 18.00
+Data source: M.P. Jézégou 1998, 343-351; D. Pieri 2005, 16-19.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>4.9329999999999998,43.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
