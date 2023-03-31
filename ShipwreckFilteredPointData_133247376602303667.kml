@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Nueva Tabarca (Spain)">
+    <name />
+    <description>Primary Name: Nueva Tabarca (Spain)
+Secondary Name: 
+Start Date: 0
+End Date: 0
+DateQ: 
+YearFound: 
+CargoName: nothing reported
+Type: glazed ware pottery
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: extensive field of amphoras
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-0.48199999999999998,38.171999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta Secca 1">
+    <name />
+    <description>Primary Name: Punta Secca 1
+Secondary Name: 
+Start Date: 650
+End Date: 700
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: well-preserved hull
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.5,36.767000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Punta Secca 2">
+    <name />
+    <description>Primary Name: Punta Secca 2
+Secondary Name: 
+Start Date: 650
+End Date: 700
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: well-preserved hull
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.5,36.767000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Randello">
+    <name />
+    <description>Primary Name: Randello
+Secondary Name: 
+Start Date: 300
+End Date: 325
+DateQ: 
+YearFound: 
+CargoName: coins
+Type: Almagro51C Beltran 72 cylindrical ovoid, Dr23
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 2 lead anchors
+Capacity: 
+Comments: copper nails
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.449999999999999,36.850000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Baie de l'Amitié">
+    <name />
+    <description><![CDATA[Primary Name: Baie de l'Amitié
+Secondary Name: 
+Start Date: 50
+End Date: 100
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 4.00
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: remains of the hull; use of plane (platanus) wood and pollen in hull pitch show ship was built and fitted in eastern Mediterranean
+Ship Length: 9.50
+Data source: S.D. Muller, 2004, 343-349; S.D. Muller 2005, 153.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.4670000000000001,43.267000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capo Ferrato">
+    <name />
+    <description>Primary Name: Capo Ferrato
+Secondary Name: 
+Start Date: 1
+End Date: 500
+DateQ: ca
+YearFound: 
+CargoName: amphoras
+Type: Afr2 amphora
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.6170000000000009,39.283000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cefalù">
+    <name />
+    <description>Primary Name: Cefalù
+Secondary Name: 
+Start Date: 400
+End Date: 600
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: Gaulish, African cylindrical
+Ship Width: 6.00
+Wreck Depth: 3.00
+Gear: pump-well, steering oar mountings, steering oar
+Capacity: 
+Comments: bricks from galley, frame timbers
+Ship Length: 35.00
+Data source: G. Purpura 1993, 163-184.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.032999999999999,38.017000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dor 1">
+    <name>Dor A</name>
+    <description>Primary Name: Dor 1
+Secondary Name: Dor A
+Start Date: 600
+End Date: 640
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: late roman
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: wooden planking
+Ship Length: 22.00
+Data source: S. Kingsley 2002, 4-5; S. Kingsley 2004, 38.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Guardis 2, Na">
+    <name />
+    <description>Primary Name: Guardis 2, Na
+Secondary Name: 
+Start Date: 1
+End Date: 25
+DateQ: ca
+YearFound: 
+CargoName: marble
+Type: RileyLR2
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: remains of hull
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3,39.299999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="îles-Rousse">
+    <name />
+    <description>Primary Name: îles-Rousse
+Secondary Name: 
+Start Date: 50
+End Date: 50
+DateQ: ca
+YearFound: 
+CargoName: ceramic
+Type: Afr2B
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: ingot with Nero
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.9329999999999998,42.633000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Kallithea">
+    <name />
+    <description>Primary Name: Kallithea
+Secondary Name: 
+Start Date: 500
+End Date: 1500
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: 7C Byzantine coin
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>23.5,40.167000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Kallithea">
+    <name />
+    <description><![CDATA[Primary Name: Kallithea
+Secondary Name: 
+Start Date: 500
+End Date: 1500
+DateQ: 
+YearFound: 
+CargoName: stone
+Type: samples of slate & marble
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>23.5,40.167000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Kallithea">
+    <name />
+    <description>Primary Name: Kallithea
+Secondary Name: 
+Start Date: 500
+End Date: 1500
+DateQ: 
+YearFound: 
+CargoName: lamps
+Type: bronze lamp
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>23.5,40.167000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Mateille 1">
+    <name />
+    <description>Primary Name: Mateille 1
+Secondary Name: 
+Start Date: 400
+End Date: 425
+DateQ: ca
+YearFound: 
+CargoName: amphoras
+Type: Dr28, Dr2, Dr9, flatbottomed, Werff 3
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 3 lead anchor stocks, pipe, possible pump collecting tank
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.117,43.116999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Mateille 1">
+    <name />
+    <description>Primary Name: Mateille 1
+Secondary Name: 
+Start Date: 400
+End Date: 425
+DateQ: ca
+YearFound: 
+CargoName: stone
+Type: marble or granite
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 3 lead anchor stocks, pipe, possible pump collecting tank
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>3.117,43.116999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Monaco 1">
+    <name />
+    <description>Primary Name: Monaco 1
+Secondary Name: 
+Start Date: 200
+End Date: 250
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: Haltern70 Dr7-11 Dr20 Dr28
+Ship Width: 4.00
+Wreck Depth: 3.00
+Gear: 9 anchors
+Capacity: 
+Comments: keel
+Ship Length: 15.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.4169999999999998,43.732999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saliagos">
+    <name />
+    <description>Primary Name: Saliagos
+Secondary Name: 
+Start Date: 1
+End Date: 500
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>25.100000000000001,37.033000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sedot Yam">
+    <name />
+    <description>Primary Name: Sedot Yam
+Secondary Name: 
+Start Date: 400
+End Date: 600
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.883000000000003,32.482999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Straton's Tower">
+    <name />
+    <description><![CDATA[Primary Name: Straton's Tower
+Secondary Name: 
+Start Date: 50
+End Date: 50
+DateQ: ca / ?
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 9.00
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: hull, C14 mid: 1st felling
+Ship Length: 45.00
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.883000000000003,32.5,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tantura Lagoon E">
+    <name />
+    <description>Primary Name: Tantura Lagoon E
+Secondary Name: 
+Start Date: 550
+End Date: 650
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: Dating by C14
+Ship Length: 
+Data source: S. Kampbell 2006, 7-10; O. Barkai and Y. Kahanov 2007, 21-31.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Terrasini 1">
+    <name />
+    <description>Primary Name: Terrasini 1
+Secondary Name: 
+Start Date: 25
+End Date: 50
+DateQ: ca / ?
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: wood fragments, copper nails, lead sheathing, tiles
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.083,38.149999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Triscina 3">
+    <name />
+    <description>Primary Name: Triscina 3
+Secondary Name: 
+Start Date: 400
+End Date: 500
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.782999999999999,37.567,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
