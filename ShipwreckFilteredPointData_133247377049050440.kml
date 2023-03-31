@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Randello">
+    <name />
+    <description>Primary Name: Randello
+Secondary Name: 
+Start Date: 300
+End Date: 325
+DateQ: 
+YearFound: 
+CargoName: coins
+Type: Almagro51C Beltran 72 cylindrical ovoid, Dr23
+Ship Width: 
+Wreck Depth: 3.00
+Gear: 2 lead anchors
+Capacity: 
+Comments: copper nails
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.449999999999999,36.850000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
