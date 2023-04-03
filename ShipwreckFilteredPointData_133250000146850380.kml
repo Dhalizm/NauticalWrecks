@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Puck 2">
+    <name />
+    <description>Primary Name: Puck 2
+Secondary Name: 
+Start Date: 861
+End Date: 978
+DateQ: 
+YearFound: 
+CargoName: ceramic
+Type: Afr1 Tripolitanian
+Ship Width: 2.30
+Wreck Depth: 1.80
+Gear: 
+Capacity: 
+Comments: Dating based on 9 dendro samples on oak planks, range 861-978, and 3 14C samples range 555-810, with average margin of 68 years (dismissed by excavator as well as other literature).  Slavonic, military vessel, oared/sailed, oak, pine.  Found in underwater quay, in Gdansk bay, along with another 5 wrecks.  Mast step of wreck 2 preserved very well.
+Ship Length: 18.00
+Data source: Navis I, Puck 2, #194; W. St?pie? 1983, 49-57; W. St?pie? 1984, 71-78; W. St?pie? 1984, 311-321; W. St?pie? 1987, 139-154; J. Litwin 1995.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>18.382999999999999,54.732999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Puck 2">
+    <name />
+    <description>Primary Name: Puck 2
+Secondary Name: 
+Start Date: 861
+End Date: 978
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: Byzantine
+Ship Width: 2.30
+Wreck Depth: 1.80
+Gear: 
+Capacity: 
+Comments: Dating based on 9 dendro samples on oak planks, range 861-978, and 3 14C samples range 555-810, with average margin of 68 years (dismissed by excavator as well as other literature).  Slavonic, military vessel, oared/sailed, oak, pine.  Found in underwater quay, in Gdansk bay, along with another 5 wrecks.  Mast step of wreck 2 preserved very well.
+Ship Length: 18.00
+Data source: Navis I, Puck 2, #194; W. St?pie? 1983, 49-57; W. St?pie? 1984, 71-78; W. St?pie? 1984, 311-321; W. St?pie? 1987, 139-154; J. Litwin 1995.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>18.382999999999999,54.732999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
