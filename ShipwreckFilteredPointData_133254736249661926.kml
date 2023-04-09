@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Nemi 4">
+    <name />
+    <description>Primary Name: Nemi 4
+Secondary Name: 
+Start Date: 35
+End Date: 50
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: boat
+Ship Length: 9.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.717000000000001,41.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Aragnon">
+    <name />
+    <description>Primary Name: Aragnon
+Secondary Name: 
+Start Date: 1
+End Date: 50
+DateQ: ca
+YearFound: 
+CargoName: stone
+Type: Dr20
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: terracotta stoppers sealed with pitch
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.0670000000000002,43.317,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Atlit 3">
+    <name />
+    <description>Primary Name: Atlit 3
+Secondary Name: 
+Start Date: 1400
+End Date: 1500
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: Palestine
+Ship Width: 
+Wreck Depth: 0.00
+Gear: stone ballast
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.917000000000002,32.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Atlit 3">
+    <name />
+    <description>Primary Name: Atlit 3
+Secondary Name: 
+Start Date: 1400
+End Date: 1500
+DateQ: ca / ?
+YearFound: 
+CargoName: metal
+Type: 2 bronze steelyards, pear-shaped counterbalance lead weight sheated in copper, w/ inscription of different owners and christian sign of cross Artemon-Psates of Rhion
+Ship Width: 
+Wreck Depth: 0.00
+Gear: stone ballast
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.917000000000002,32.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Atlit 3">
+    <name />
+    <description>Primary Name: Atlit 3
+Secondary Name: 
+Start Date: 1400
+End Date: 1500
+DateQ: ca / ?
+YearFound: 
+CargoName: stone
+Type: cheap stone anchors
+Ship Width: 
+Wreck Depth: 0.00
+Gear: stone ballast
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.917000000000002,32.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Atlit 3">
+    <name />
+    <description>Primary Name: Atlit 3
+Secondary Name: 
+Start Date: 1400
+End Date: 1500
+DateQ: ca / ?
+YearFound: 
+CargoName: gear: LR1  (Paphos kiln?) LR2 ARS Keay 42D; roof tiles from Cyprus; hearth tiles seem to be from Palestine; iron pick
+Type: cheap stone anchors
+Ship Width: 
+Wreck Depth: 0.00
+Gear: stone ballast
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.917000000000002,32.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Avenches 2">
+    <name />
+    <description>Primary Name: Avenches 2
+Secondary Name: 
+Start Date: 45
+End Date: 200
+DateQ: c1
+YearFound: 
+CargoName: lamps
+Type: stone ballast
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: caulked Roman boat, dendrodated, probably abandoned in C2
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.0499999999999998,46.883000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Avenches 2">
+    <name />
+    <description>Primary Name: Avenches 2
+Secondary Name: 
+Start Date: 45
+End Date: 200
+DateQ: c1
+YearFound: 
+CargoName: marble
+Type: ashlar ; mortar (unused)
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: caulked Roman boat, dendrodated, probably abandoned in C2
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.0499999999999998,46.883000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Avenches 2">
+    <name />
+    <description>Primary Name: Avenches 2
+Secondary Name: 
+Start Date: 45
+End Date: 200
+DateQ: c1
+YearFound: 
+CargoName: metal
+Type: copper flask with iron handle, similar to one found at Yassi Ada and 4 other similar contexts in the Mediterranean.  Author claims this is feature of 7th c. Byzantine  metallurgy. Also found a copper pitcher.
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: caulked Roman boat, dendrodated, probably abandoned in C2
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.0499999999999998,46.883000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Avenches 3">
+    <name />
+    <description>Primary Name: Avenches 3
+Secondary Name: 
+Start Date: 125
+End Date: 200
+DateQ: ca / ?
+YearFound: 
+CargoName: masonry
+Type: ashlar blocks
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: caulked Roman boat, dendrodated, probably abandoned in C2
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.0499999999999998,46.883000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Yverdon 1">
+    <name />
+    <description>Primary Name: Yverdon 1
+Secondary Name: 
+Start Date: 75
+End Date: 100
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: S. Gaulish terra sigillata bowl
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: hull, frames, planks, dendro 77
+Ship Length: 34.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.633,46.783000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Shiant Islands">
+    <name />
+    <description>Primary Name: Shiant Islands
+Secondary Name: 
+Start Date: 1
+End Date: 500
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: Aegean pottery: casseroles, plates, frying pans, bowls, jugs, lids, grills
+Ship Width: 
+Wreck Depth: 0.00
+Gear: 
+Capacity: 
+Comments: Roman ship
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-6.3330000000000002,57.883000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
