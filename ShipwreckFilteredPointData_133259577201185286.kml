@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Ooze Deep">
+    <name />
+    <description>Primary Name: Ooze Deep
+Secondary Name: 
+Start Date: 65
+End Date: 105
+DateQ: ca
+YearFound: 
+CargoName: amphoras
+Type: 35 bronze vessels
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>1,51.482999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
