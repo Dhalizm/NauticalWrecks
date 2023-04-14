@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Capo Plaia">
+    <name />
+    <description>Primary Name: Capo Plaia
+Secondary Name: 
+Start Date: 200
+End Date: 275
+DateQ: ca
+YearFound: 
+CargoName: amphoras
+Type: LR
+Ship Width: 
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.933,38.017000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Capo Plaia">
+    <name />
+    <description>Primary Name: Capo Plaia
+Secondary Name: 
+Start Date: 200
+End Date: 275
+DateQ: ca
+YearFound: 
+CargoName: ceramic
+Type: coarseware
+Ship Width: 
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.933,38.017000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dor 2001/1">
+    <name />
+    <description><![CDATA[Primary Name: Dor 2001/1
+Secondary Name: 
+Start Date: 420
+End Date: 540
+DateQ: ca
+YearFound: 
+CargoName: stone
+Type: fragments of late types
+Ship Width: 4.50
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: Dating by 14C, on ten samples from planking (oak, pine, beech, christ's thorn, tamarisk, elm, cypress)  rope and matting, averaged with OxCal method. Caulking. This is NOT Tantura: see H. Mor and Y. Kahanov 2006, Table 3; Frame first construction.
+Ship Length: 11.50
+Data source: H. Mor 2005, 14-16; H. Mor and Y. Kahanov 2006, 274-289.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Roskilde 1">
+    <name />
+    <description>Primary Name: Roskilde 1
+Secondary Name: 
+Start Date: 1336
+End Date: 1336
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: Dr7-11 Beltran2B Dr2-4 Tarraconaise, Pelichet 47 Gaulish, Dr2 Gaulish Dr20
+Ship Width: 
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: Survey find. Dating by dendro of planks. Cargo vessel in oak and pine. Nordic type. Cargo vessel. All Roskilde ships found during foundation work for the Viking ship museum.
+Ship Length: 9.80
+Data source: A. Croome 1999, 382-393.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.079000000000001,55.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Roskilde 1">
+    <name />
+    <description>Primary Name: Roskilde 1
+Secondary Name: 
+Start Date: 1336
+End Date: 1336
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: gauloise 4
+Ship Width: 
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: Survey find. Dating by dendro of planks. Cargo vessel in oak and pine. Nordic type. Cargo vessel. All Roskilde ships found during foundation work for the Viking ship museum.
+Ship Length: 9.80
+Data source: A. Croome 1999, 382-393.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.079000000000001,55.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Roskilde 1">
+    <name />
+    <description>Primary Name: Roskilde 1
+Secondary Name: 
+Start Date: 1336
+End Date: 1336
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: Dr7-11 Beltran2B Dr2-4 Tarraconaise, Pelichet 47 Gaulish, Dr2 Gaulish Dr20
+Ship Width: 
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: Survey find. Dating by dendro of planks. Cargo vessel in oak and pine. Nordic type. Cargo vessel. All Roskilde ships found during foundation work for the Viking ship museum.
+Ship Length: 9.80
+Data source: A. Croome 1999, 382-393.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.079000000000001,55.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Roskilde 1">
+    <name />
+    <description>Primary Name: Roskilde 1
+Secondary Name: 
+Start Date: 1336
+End Date: 1336
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: gauloise 4
+Ship Width: 
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: Survey find. Dating by dendro of planks. Cargo vessel in oak and pine. Nordic type. Cargo vessel. All Roskilde ships found during foundation work for the Viking ship museum.
+Ship Length: 9.80
+Data source: A. Croome 1999, 382-393.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>12.079000000000001,55.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tantura Lagoon F">
+    <name />
+    <description>Primary Name: Tantura Lagoon F
+Secondary Name: 
+Start Date: 700
+End Date: 750
+DateQ: ca
+YearFound: 
+CargoName: ceramic
+Type: marble column drums, bases, slab, architrave
+Ship Width: 3.50
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: 70m offshore. Dating by 14C (wood is tamarix, pinus brutia, pinus nigra; tamarix from mod. Turkey)
+Ship Length: 12.00
+Data source: S. Kampbell 2006, 7-10; O. Barkai and Y. Kahanov 2007, 21-31.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tantura Lagoon F">
+    <name />
+    <description>Primary Name: Tantura Lagoon F
+Secondary Name: 
+Start Date: 700
+End Date: 750
+DateQ: ca
+YearFound: 
+CargoName: coins
+Type: 80 coins
+Ship Width: 3.50
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: 70m offshore. Dating by 14C (wood is tamarix, pinus brutia, pinus nigra; tamarix from mod. Turkey)
+Ship Length: 12.00
+Data source: S. Kampbell 2006, 7-10; O. Barkai and Y. Kahanov 2007, 21-31.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tantura Lagoon F">
+    <name />
+    <description>Primary Name: Tantura Lagoon F
+Secondary Name: 
+Start Date: 700
+End Date: 750
+DateQ: ca
+YearFound: 
+CargoName: tiles
+Type: roof tiles
+Ship Width: 3.50
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: 70m offshore. Dating by 14C (wood is tamarix, pinus brutia, pinus nigra; tamarix from mod. Turkey)
+Ship Length: 12.00
+Data source: S. Kampbell 2006, 7-10; O. Barkai and Y. Kahanov 2007, 21-31.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tantura Lagoon F">
+    <name />
+    <description>Primary Name: Tantura Lagoon F
+Secondary Name: 
+Start Date: 700
+End Date: 750
+DateQ: ca
+YearFound: 
+CargoName: decorative pins and fishooks, ropes; cargo was carried in many barrels
+Type: roof tiles
+Ship Width: 3.50
+Wreck Depth: 1.00
+Gear: 
+Capacity: 
+Comments: 70m offshore. Dating by 14C (wood is tamarix, pinus brutia, pinus nigra; tamarix from mod. Turkey)
+Ship Length: 12.00
+Data source: S. Kampbell 2006, 7-10; O. Barkai and Y. Kahanov 2007, 21-31.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
