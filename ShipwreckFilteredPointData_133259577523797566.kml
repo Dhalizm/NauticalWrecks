@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Saint Peter Port">
+    <name>The Roman Guernsey Boat</name>
+    <description>Primary Name: Saint Peter Port
+Secondary Name: The Roman Guernsey Boat
+Start Date: 280
+End Date: 290
+DateQ: ca
+YearFound: 1982
+CargoName: 
+Type: 
+Ship Width: 6.00
+Wreck Depth: 8.00
+Gear: 
+Capacity: 130-160m^2
+Comments: dating based on dendro (oak) as well as coins minted ca 260-80
+Ship Length: 24.50
+Data source: M. Rule and J. Monaghan 1993; E. Marlière 2002, 52-55.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>2.5329999999999999,49.450000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
