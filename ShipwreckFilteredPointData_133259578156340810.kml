@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Oscellucia">
+    <name />
+    <description>Primary Name: Oscellucia
+Secondary Name: 
+Start Date: 20
+End Date: 50
+DateQ: ca
+YearFound: 
+CargoName: amphoras
+Type: Abbasid-period oil lamp
+Ship Width: 
+Wreck Depth: 17.00
+Gear: rigging elements, rope
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.7170000000000005,42.567,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Oscellucia">
+    <name />
+    <description>Primary Name: Oscellucia
+Secondary Name: 
+Start Date: 20
+End Date: 50
+DateQ: ca
+YearFound: 
+CargoName: ceramic
+Type: sherds glued to the hull with resin
+Ship Width: 
+Wreck Depth: 17.00
+Gear: rigging elements, rope
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.7170000000000005,42.567,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
