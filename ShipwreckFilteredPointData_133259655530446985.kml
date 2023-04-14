@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Grand Ribaud D/4">
+    <name />
+    <description>Primary Name: Grand Ribaud D/4
+Secondary Name: 
+Start Date: -9
+End Date: 10
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 18.00
+Gear: 
+Capacity: 
+Comments: dating based on Arretine ceramic
+Ship Length: 
+Data source: A. Hesnard et al. 1988; P. Pomey and L. Long 1988, 30-32.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.133,43.017000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
