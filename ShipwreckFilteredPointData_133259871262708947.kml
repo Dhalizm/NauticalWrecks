@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Bajo de la Barra">
+    <name />
+    <description>Primary Name: Bajo de la Barra
+Secondary Name: 
+Start Date: 1
+End Date: 100
+DateQ: ca / ?
+YearFound: 
+CargoName: metal
+Type: 2 lead plates
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-0.66700000000000004,37.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
