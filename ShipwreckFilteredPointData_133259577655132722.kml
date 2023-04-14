@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Wantzenau">
+    <name />
+    <description>Primary Name: Wantzenau
+Secondary Name: 
+Start Date: 275
+End Date: 300
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: tufa
+Ship Width: 
+Wreck Depth: 
+Gear: lead stock and reinforcement collar of anchor
+Capacity: 
+Comments: hull, punting, iron-mounted pole
+Ship Length: 6.50
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.8330000000000002,48.667000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Xanten-Lüttingen">
+    <name />
+    <description>Primary Name: Xanten-Lüttingen
+Secondary Name: 
+Start Date: 275
+End Date: 275
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 4.90
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: Dating based on oak dendro dates. Cargo vessel. Roman context
+Ship Length: 35.00
+Data source: Navis I, Xanten-Luettingen, #123; W. Böcking 1996, 209-215; H. Schlichtherle and W. Kramer 1996, 141-151.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.4329999999999998,51.649999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Caesarea 1">
+    <name />
+    <description>Primary Name: Caesarea 1
+Secondary Name: 
+Start Date: 275
+End Date: 325
+DateQ: ca
+YearFound: 
+CargoName: amphoras
+Type: Roman
+Ship Width: 
+Wreck Depth: 6.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.883000000000003,32.5,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Caesarea 2">
+    <name />
+    <description>Primary Name: Caesarea 2
+Secondary Name: 
+Start Date: 275
+End Date: 325
+DateQ: ca
+YearFound: 
+CargoName: ceramic
+Type: pear-shaped
+Ship Width: 
+Wreck Depth: 6.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.883000000000003,32.5,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Cavallo 2">
+    <name />
+    <description>Primary Name: Cavallo 2
+Secondary Name: 
+Start Date: 275
+End Date: 400
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: Dr2-4
+Ship Width: 
+Wreck Depth: 8.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.25,41.366999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ciotat 4, La">
+    <name />
+    <description>Primary Name: Ciotat 4, La
+Secondary Name: 
+Start Date: 275
+End Date: 275
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.617,43.082999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Datca 3">
+    <name />
+    <description><![CDATA[Primary Name: Datca 3
+Secondary Name: 
+Start Date: 275
+End Date: 325
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: cylindrical LR3; cf. Keay 25.1, 25.3: homogenous cargo of amphoras produced and loaded at Salakta (Sullechtum): M. Bonifay, Études sur la céramique romaine tardive d'Afrique, BAR international series 1301 (Oxford, 2004), 453
+Ship Width: 
+Wreck Depth: 37.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>27.433,36.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="London (County Hall)">
+    <name />
+    <description>Primary Name: London (County Hall)
+Secondary Name: 
+Start Date: 275
+End Date: 300
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: Roman ship
+Ship Length: 20.00
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-0.11700000000000001,51.5,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Marzamemi 6">
+    <name />
+    <description>Primary Name: Marzamemi 6
+Secondary Name: 
+Start Date: 275
+End Date: 300
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: household pottery
+Ship Width: 
+Wreck Depth: 7.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.132999999999999,36.732999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Marzamemi 6">
+    <name />
+    <description>Primary Name: Marzamemi 6
+Secondary Name: 
+Start Date: 275
+End Date: 300
+DateQ: ca / ?
+YearFound: 
+CargoName: ceramic
+Type: pottery
+Ship Width: 
+Wreck Depth: 7.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.132999999999999,36.732999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Marzamemi 6">
+    <name />
+    <description>Primary Name: Marzamemi 6
+Secondary Name: 
+Start Date: 275
+End Date: 300
+DateQ: ca / ?
+YearFound: 
+CargoName: metal
+Type: bronze pan of candelabrum
+Ship Width: 
+Wreck Depth: 7.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.132999999999999,36.732999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Sant'Antioco 1">
+    <name />
+    <description><![CDATA[Primary Name: Sant'Antioco 1
+Secondary Name: 
+Start Date: 275
+End Date: 300
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>8.4169999999999998,38.950000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Pag Area">
+    <name />
+    <description>Primary Name: Pag Area
+Secondary Name: 
+Start Date: 275
+End Date: 300
+DateQ: ca / ?
+YearFound: 
+CargoName: marble
+Type: Günsenin3
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14,44,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Povile">
+    <name />
+    <description>Primary Name: Povile
+Secondary Name: 
+Start Date: 275
+End Date: 400
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 19.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>14.817,45.116999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
