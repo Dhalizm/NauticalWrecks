@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Utrecht 4">
+    <name />
+    <description><![CDATA[Primary Name: Utrecht 4
+Secondary Name: 
+Start Date: 0
+End Date: 0
+DateQ: 
+YearFound: 
+CargoName: stone
+Type: at least 7 basalt grinding stones
+Ship Width: 
+Wreck Depth: 
+Gear: ?ship's boat
+Capacity: 
+Comments: Oak cargo vessel in medieval context. No dating info provided in db. Construction similar to previous Utrecht types (shell first, clinker; rivet).
+Ship Length: 
+Data source: Navis I, Utrecht 4, #69; E. von der Porten 1963; J. Philipsen 1965; D. Ellmers 1972, 292-293; T. Hoekstra 1975, 390-391; T. Hoekstra 1976; M.D. de Weerd 1987, 147-169; R. Vlek 1987; M.D. de Weerd 1991, 5-16; M.D. de Weerd 1991, 28-31; F.M. Hocker 1997, 435; K. Vlierman 1997, 88-91.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.133,52.082999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Utrecht 4">
+    <name />
+    <description><![CDATA[Primary Name: Utrecht 4
+Secondary Name: 
+Start Date: 0
+End Date: 0
+DateQ: 
+YearFound: 
+CargoName: metal
+Type: 250 bronze ingots, brass ingot, copper vessels (1 with Arabic graffito)
+Ship Width: 
+Wreck Depth: 
+Gear: ?ship's boat
+Capacity: 
+Comments: Oak cargo vessel in medieval context. No dating info provided in db. Construction similar to previous Utrecht types (shell first, clinker; rivet).
+Ship Length: 
+Data source: Navis I, Utrecht 4, #69; E. von der Porten 1963; J. Philipsen 1965; D. Ellmers 1972, 292-293; T. Hoekstra 1975, 390-391; T. Hoekstra 1976; M.D. de Weerd 1987, 147-169; R. Vlek 1987; M.D. de Weerd 1991, 5-16; M.D. de Weerd 1991, 28-31; F.M. Hocker 1997, 435; K. Vlierman 1997, 88-91.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.133,52.082999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
