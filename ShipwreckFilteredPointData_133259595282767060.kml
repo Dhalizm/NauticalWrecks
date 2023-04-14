@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Wismar-Wendorf">
+    <name />
+    <description>Primary Name: Wismar-Wendorf
+Secondary Name: 
+Start Date: 1476
+End Date: 1476
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 7.00
+Wreck Depth: 1.50
+Gear: 
+Capacity: 
+Comments: dendro dated; wood from area around Riga.
+Ship Length: 18.00
+Data source: T. Förster 2000.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>11.441000000000001,53.905999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Saint Peter port (Guernsey) 6">
+    <name />
+    <description>Primary Name: Saint Peter port (Guernsey) 6
+Secondary Name: 
+Start Date: 1229
+End Date: 1261
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 1.50
+Gear: 
+Capacity: 
+Comments: dendro dated
+Ship Length: 
+Data source: J. Adams and J. Black 2004, 230-252.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>-2.5270000000000001,49.466999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
