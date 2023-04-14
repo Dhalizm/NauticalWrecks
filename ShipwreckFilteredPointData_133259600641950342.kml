@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Poel (Timmendorfer Mole) 1">
+    <name />
+    <description>Primary Name: Poel (Timmendorfer Mole) 1
+Secondary Name: 
+Start Date: 1354
+End Date: 1354
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: Central Gaulish terra sigillata
+Ship Width: 8.00
+Wreck Depth: 2.30
+Gear: 
+Capacity: up to 200 tons
+Comments: dendro dated with 30 different samples of pine. 150m north of Timmendorf strand. Could hold up to 200 tons of cargo
+Ship Length: 26.00
+Data source: T. Förster 2000.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.802,53.996000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
