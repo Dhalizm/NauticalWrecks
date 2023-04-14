@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Porto Azzurro 2">
+    <name />
+    <description>Primary Name: Porto Azzurro 2
+Secondary Name: 
+Start Date: 50
+End Date: 100
+DateQ: ca / ?
+YearFound: 
+CargoName: amphoras
+Type: Riley LR1 Riley LR2
+Ship Width: 
+Wreck Depth: 
+Gear: 11 iron anchors
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.4,42.75,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
