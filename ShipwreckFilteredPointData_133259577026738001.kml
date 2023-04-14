@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Agay">
+    <name>Camp Long</name>
+    <description><![CDATA[Primary Name: Agay
+Secondary Name: Camp Long
+Start Date: 900
+End Date: 950
+DateQ: ca
+YearFound: 1963
+CargoName: amphoras
+Type: 1000 coins
+Ship Width: 4.00
+Wreck Depth: 50.00
+Gear: chest fittings
+Capacity: 
+Comments: skeleton of man with sword and leather sheath; dating from C10 Muslim ceramic; ship built of small timbers, skeleton first; 1 (=ship's boat?) and possibly 2 ships nearby; possible naval battle; some of the objects point to Alicante area, Murcia
+Ship Length: 25.00
+Data source: http://www.culture.gouv.fr/fr/archeosm/archeosom/agay-s.htm; D. Brentchaloff and P. Sénac 1991; J.P. Joncheray 2007c.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.867,43.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
