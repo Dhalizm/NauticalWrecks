@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Yenikap? 5">
+    <name />
+    <description>Primary Name: Yenikap? 5
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: heavily pitched inside and out, shell construction
+Ship Length: 
+Data source: J.P. Delgado 2007, 8-11; C. Pulak 2007.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>28.949999999999999,41.005000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Zdrijac">
+    <name />
+    <description>Primary Name: Zdrijac
+Secondary Name: 
+Start Date: 800
+End Date: 1000
+DateQ: 
+YearFound: 
+CargoName: ceramic
+Type: Dr20A terracotta stoppers
+Ship Width: 
+Wreck Depth: 4.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>15.183,44.232999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Årby">
+    <name />
+    <description>Primary Name: Årby
+Secondary Name: 
+Start Date: 800
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: ceramic
+Type: terracotta sarcophagi
+Ship Width: 1.00
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: No dating information provided in database. Pine, oak, oared, Viking-age working boat later used as a grave.
+Ship Length: 3.80
+Data source: Navis I, Årby #172; H. Arbman 1940; H. Arbman, B. Greenhill, and O.T.P. Roberts 1993.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>16.266999999999999,59.582999999999998,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Äskekärr 1">
+    <name />
+    <description>Primary Name: Äskekärr 1
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca / ?
+YearFound: 1933
+CargoName: amphoras
+Type: copper ingots
+Ship Width: 4.60
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: No dating info in database. Oak, sailed, cargo Nordic ship.
+Ship Length: 16.00
+Data source: Navis I, Äskekärr 1, #171; P. Humbla and H. Thomasson 1934; L.G. Engstrand and H.G. Östlund 1962; J. Bill et al. 1997; A. Bråthen 1998; P. Smolarek 2000.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.6,58.616999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Batiguier, Le">
+    <name />
+    <description>Primary Name: Batiguier, Le
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca / ?
+YearFound: 1973
+CargoName: metal
+Type: Portugese pottery
+Ship Width: 6.00
+Wreck Depth: 58.00
+Gear: cannon balls
+Capacity: 
+Comments: burned  hull, 3 human skeletons, Saracen ship; dated by style on decorative objects; skeleton first construction; flat-bottomed, similar to Agay and Serçe Liman
+Ship Length: 20.00
+Data source: http://www.culture.gouv.fr/fr/archeosm/archeosom/bateg-AB73; J.P. Joncheray 2007a; J.P. Joncheray 2007b</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.0170000000000003,43.517000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dhia 2">
+    <name />
+    <description>Primary Name: Dhia 2
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca / ?
+YearFound: 
+CargoName: ceramic
+Type: coarse pottery
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>25.216999999999999,35.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dhia 2">
+    <name />
+    <description>Primary Name: Dhia 2
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca / ?
+YearFound: 
+CargoName: metal
+Type: bronze and lead objects
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>25.216999999999999,35.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dhia 2">
+    <name />
+    <description>Primary Name: Dhia 2
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca / ?
+YearFound: 
+CargoName: lamps; coins
+Type: bronze and lead objects
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>25.216999999999999,35.417000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Mandalya Gulf 3">
+    <name />
+    <description>Primary Name: Mandalya Gulf 3
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: coarse pottery
+Ship Width: 
+Wreck Depth: 37.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>27.417000000000002,37.167000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Mljet 1">
+    <name />
+    <description>Primary Name: Mljet 1
+Secondary Name: 
+Start Date: 850
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 25.00
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>17.683,42.716999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Rocher de l'Estéou 2">
+    <name />
+    <description><![CDATA[Primary Name: Rocher de l'Estéou 2
+Secondary Name: 
+Start Date: 800
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 26.00
+Gear: 
+Capacity: 
+Comments: Saracen ship
+Ship Length: 
+Data source: S. Ximénès 1976, 139-150.]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.3890000000000002,43.185000000000002,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tiel 1">
+    <name />
+    <description>Primary Name: Tiel 1
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: stone
+Type: millstones
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: Cargo, sailed? oak vessel, type Utrecht 3.  Part of ship was used as revetment. Claims precise date of 980 on database but no evidence provided.
+Ship Length: 
+Data source: Navis I, Tiel 1, #62; K. Vlierman 1996.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.4169999999999998,51.899999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Tiel 2">
+    <name />
+    <description>Primary Name: Tiel 2
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: ceramic
+Type: grooved, 3.5 liters
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: Cargo sailed? oak vessel.  Part of Ship used as rivetment. Claims precise date of 991, but no evidence provided.
+Ship Length: 
+Data source: Navis I, Tiel 2, #63; K. Vlierman 1996.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.4169999999999998,51.899999999999999,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Nord-Fouras">
+    <name />
+    <description>Primary Name: Nord-Fouras
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: S. Kingsley 2009, 31-36.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.6829999999999998,43.183,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Plane 3">
+    <name />
+    <description>Primary Name: Plane 3
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: 
+YearFound: 
+CargoName: ceramic
+Type: Dr2-4
+Ship Width: 
+Wreck Depth: 26.00
+Gear: 
+Capacity: 
+Comments: partially-preserved hull; ceramic related to 10th C. Muslim production
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>5.383,43.183,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ralswiek 1">
+    <name />
+    <description>Primary Name: Ralswiek 1
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 3.40
+Wreck Depth: 
+Gear: pulley
+Capacity: 
+Comments: No info on dating or cargo in Navis database. Slavonic context
+Ship Length: 14.00
+Data source: Navis I, Ralswiek 1, #126; P. Herfert 1968, 211-222; W. Kramer and H. Schlichtherle 1995, 3-16; O. Crumlin-Pedersen 1997, 110.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.449999999999999,54.433,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ralswiek 2">
+    <name />
+    <description>Primary Name: Ralswiek 2
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: knee and bottom of tow mast; caulking pegs; app fitting for stern oar
+Capacity: 
+Comments: Cargo sail/oar vessel. No info on dating or cargo in Navis database. Slavonic context.
+Ship Length: 9.50
+Data source: Navis I, Ralswiek 2, #122; P. Herfert 1968, 211-222; W. Kramer and H. Schlichtherle 1995, 3-16; O. Crumlin-Pedersen 1997, 110.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.449999999999999,54.433,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Ralswiek 4">
+    <name />
+    <description>Primary Name: Ralswiek 4
+Secondary Name: 
+Start Date: 900
+End Date: 1000
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 3.30
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: Cargo sail vessel. Slavonic context
+Ship Length: 13.00
+Data source: Navis I, Ralswiek 4, #127; P. Herfert 1968, 211-222; J. Herrmann 1981, 145-158; W. Kramer and H. Schlichtherle 1995, 110.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>13.449999999999999,54.433,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
