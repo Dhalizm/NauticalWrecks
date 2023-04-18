@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Pisa B">
+    <name />
+    <description>Primary Name: Pisa B
+Secondary Name: 
+Start Date: -30
+End Date: 40
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 4.00
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: skeletons (probably crew member and his dog)
+Ship Length: 
+Data source: http://www.navipisa.it</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.382999999999999,43.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Pisa E">
+    <name />
+    <description>Primary Name: Pisa E
+Secondary Name: 
+Start Date: -30
+End Date: 40
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: y-shaped anchor
+Capacity: 
+Comments: possibly salvaged
+Ship Length: 
+Data source: http://www.navipisa.it</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.382999999999999,43.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Pisa P">
+    <name />
+    <description>Primary Name: Pisa P
+Secondary Name: 
+Start Date: -30
+End Date: 40
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: 
+Capacity: 
+Comments: boat, river like Pisa G
+Ship Length: 
+Data source: http://www.navipisa.it</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>10.382999999999999,43.700000000000003,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
