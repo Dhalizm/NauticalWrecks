@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Secanion, Le">
+    <name><![CDATA[L'epave de Secanion/Sequanion]]></name>
+    <description><![CDATA[Primary Name: Secanion, Le
+Secondary Name: L'epave de Secanion/Sequanion
+Start Date: -10
+End Date: 40
+DateQ: ca
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 26.00
+Gear: 2 lead anchor stocks
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: ]]></description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>7.0999999999999996,43.533000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Vis 5">
+    <name />
+    <description>Primary Name: Vis 5
+Secondary Name: 
+Start Date: 400
+End Date: 600
+DateQ: 
+YearFound: 
+CargoName: amphoras
+Type: Dr10
+Ship Width: 
+Wreck Depth: 
+Gear: 2 lead anchor stocks
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>16.25,43.049999999999997,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
