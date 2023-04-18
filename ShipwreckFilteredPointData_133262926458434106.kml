@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Dor 7 (G)">
+    <name>Dor G</name>
+    <description>Primary Name: Dor 7 (G)
+Secondary Name: Dor G
+Start Date: 600
+End Date: 640
+DateQ: ca
+YearFound: 
+CargoName: lamps
+Type: stone ballast
+Ship Width: 
+Wreck Depth: 2.20
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 9.00
+Data source: K. Raveh and S. Kingsley 1992, 309-315; A.D. de la Presle 1993, 580-589; S.  Kinglsey and K. Raveh 1994, 1-12; S. Kinglsey and K. Raveh 1994, 289-295; Y. Kahanov and S. Breitstein 1995.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dor 7 (G)">
+    <name>Dor G</name>
+    <description>Primary Name: Dor 7 (G)
+Secondary Name: Dor G
+Start Date: 600
+End Date: 640
+DateQ: ca
+YearFound: 
+CargoName: marble
+Type: ashlar ; mortar (unused)
+Ship Width: 
+Wreck Depth: 2.20
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 9.00
+Data source: K. Raveh and S. Kingsley 1992, 309-315; A.D. de la Presle 1993, 580-589; S.  Kinglsey and K. Raveh 1994, 1-12; S. Kinglsey and K. Raveh 1994, 289-295; Y. Kahanov and S. Breitstein 1995.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Dor 7 (G)">
+    <name>Dor G</name>
+    <description>Primary Name: Dor 7 (G)
+Secondary Name: Dor G
+Start Date: 600
+End Date: 640
+DateQ: ca
+YearFound: 
+CargoName: metal
+Type: copper flask with iron handle, similar to one found at Yassi Ada and 4 other similar contexts in the Mediterranean.  Author claims this is feature of 7th c. Byzantine  metallurgy. Also found a copper pitcher.
+Ship Width: 
+Wreck Depth: 2.20
+Gear: 
+Capacity: 
+Comments: 
+Ship Length: 9.00
+Data source: K. Raveh and S. Kingsley 1992, 309-315; A.D. de la Presle 1993, 580-589; S.  Kinglsey and K. Raveh 1994, 1-12; S. Kinglsey and K. Raveh 1994, 289-295; Y. Kahanov and S. Breitstein 1995.</description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>34.899999999999999,32.600000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
