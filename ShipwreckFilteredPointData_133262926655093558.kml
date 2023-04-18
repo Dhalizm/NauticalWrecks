@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Document xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark id="Miladou, Le">
+    <name />
+    <description>Primary Name: Miladou, Le
+Secondary Name: 
+Start Date: -200
+End Date: -50
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: pump tubing
+Capacity: 
+Comments: Miladou dated end C2 or first half of C1 BC, detailed analysis Dumontier and Joncheray 1991; ?dating based on coin of Constantine
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>6.383,43,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="Molara">
+    <name />
+    <description>Primary Name: Molara
+Secondary Name: 
+Start Date: -200
+End Date: 100
+DateQ: 
+YearFound: 
+CargoName: 
+Type: 
+Ship Width: 
+Wreck Depth: 
+Gear: lead anchor stock
+Capacity: 
+Comments: 
+Ship Length: 
+Data source: </description>
+    <Style>
+      <IconStyle>
+        <color>ffffffff</color>
+        <scale>0.69999999999999996</scale>
+        <Icon>
+          <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffffffff</color>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <Point id="0">
+      <coordinates>9.7330000000000005,40.850000000000001,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
